@@ -2,6 +2,10 @@
 
 A full-stack, customizable chatbot application built with Django REST Framework backend and React frontend. Create and personalize your AI chatbot experience with ease!
 
+### Demo
+
+![chatbot](https://github.com/user-attachments/assets/1a69296b-4af3-4b10-9e11-af079e970474)
+
 
 ##  Tech Stack
 
